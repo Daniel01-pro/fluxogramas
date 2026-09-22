@@ -4,11 +4,32 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CmEEuNflFvb8NF91oLZx-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="INICIO" vertex="1">
-          <mxGeometry height="80" width="120" x="770" y="20" as="geometry" />
+        <mxCell id="lQW6D4BhAdmBAQkdZ7zZ-5" edge="1" parent="1" source="CmEEuNflFvb8NF91oLZx-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="lQW6D4BhAdmBAQkdZ7zZ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CmEEuNflFvb8NF91oLZx-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="INíCIO" vertex="1">
+          <mxGeometry height="70" width="120" x="770" y="20" as="geometry" />
         </mxCell>
         <mxCell id="CmEEuNflFvb8NF91oLZx-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="FIM" vertex="1">
           <mxGeometry height="80" width="120" x="770" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="lQW6D4BhAdmBAQkdZ7zZ-6" edge="1" parent="1" source="lQW6D4BhAdmBAQkdZ7zZ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="lQW6D4BhAdmBAQkdZ7zZ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lQW6D4BhAdmBAQkdZ7zZ-1" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="ler kmi,kmf,litros" vertex="1">
+          <mxGeometry height="60" width="280" x="690" y="145" as="geometry" />
+        </mxCell>
+        <mxCell id="lQW6D4BhAdmBAQkdZ7zZ-7" edge="1" parent="1" source="lQW6D4BhAdmBAQkdZ7zZ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lQW6D4BhAdmBAQkdZ7zZ-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lQW6D4BhAdmBAQkdZ7zZ-3" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="&lt;div&gt;Litros_aos_100=litros*100(kmf-kmi)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="280" x="690" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="lQW6D4BhAdmBAQkdZ7zZ-9" edge="1" parent="1" source="lQW6D4BhAdmBAQkdZ7zZ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="CmEEuNflFvb8NF91oLZx-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lQW6D4BhAdmBAQkdZ7zZ-4" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="&lt;div&gt;escrever litros_aos_100&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="280" x="690" y="360" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
