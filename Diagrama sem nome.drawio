@@ -4,6 +4,24 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="UBvYtUCaVR99B55uepHE-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="INICIO" vertex="1">
+          <mxGeometry height="80" width="120" x="350" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UBvYtUCaVR99B55uepHE-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="FIM" vertex="1">
+          <mxGeometry height="80" width="120" x="350" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="UBvYtUCaVR99B55uepHE-4" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="LER&amp;nbsp; 3OOM" vertex="1">
+          <mxGeometry height="60" width="190" x="315" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="UBvYtUCaVR99B55uepHE-9" edge="1" parent="1" source="UBvYtUCaVR99B55uepHE-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="UBvYtUCaVR99B55uepHE-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UBvYtUCaVR99B55uepHE-7" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;300M+300M=600&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="135" x="342.5" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="UBvYtUCaVR99B55uepHE-8" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="590" y="300" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
