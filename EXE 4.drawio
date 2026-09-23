@@ -26,8 +26,10 @@
             <mxPoint x="440" y="480" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_3yYJt0TF3igiLB-5hJM-18" edge="1" parent="1" source="_3yYJt0TF3igiLB-5hJM-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="_3yYJt0TF3igiLB-5hJM-16">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="_3yYJt0TF3igiLB-5hJM-18" edge="1" parent="1" source="_3yYJt0TF3igiLB-5hJM-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="320" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="_3yYJt0TF3igiLB-5hJM-19" connectable="0" parent="_3yYJt0TF3igiLB-5hJM-18" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="SIM" vertex="1">
           <mxGeometry relative="1" x="0.2167" y="1" as="geometry">
@@ -42,14 +44,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_3yYJt0TF3igiLB-5hJM-15" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;m1&amp;lt;m2&amp;gt;m3&lt;/div&gt;" vertex="1">
+        <mxCell id="_3yYJt0TF3igiLB-5hJM-15" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;m1&amp;lt;m2&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="80" x="400" y="280" as="geometry" />
         </mxCell>
-        <mxCell id="_3yYJt0TF3igiLB-5hJM-16" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Escrever &quot;m3&quot;" vertex="1">
-          <mxGeometry height="60" width="120" x="590" y="290" as="geometry" />
-        </mxCell>
         <mxCell id="_3yYJt0TF3igiLB-5hJM-26" edge="1" parent="1" source="_3yYJt0TF3igiLB-5hJM-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="_3yYJt0TF3igiLB-5hJM-25">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="440" />
+              <mxPoint x="580" y="440" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="_3yYJt0TF3igiLB-5hJM-28" connectable="0" parent="_3yYJt0TF3igiLB-5hJM-26" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="SIM" vertex="1">
           <mxGeometry relative="1" x="-0.2545" y="-1" as="geometry">
@@ -72,6 +76,9 @@
         </mxCell>
         <mxCell id="_3yYJt0TF3igiLB-5hJM-31" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="" vertex="1">
           <mxGeometry height="60" width="120" x="570" y="515" as="geometry" />
+        </mxCell>
+        <mxCell id="_3yYJt0TF3igiLB-5hJM-32" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Escrever&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="600" y="290" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
