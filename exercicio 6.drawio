@@ -1,0 +1,39 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="HVg976ZS3gTnV45vg8o3">
+    <mxGraphModel dx="808" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ArktGUGEBCDdUh8TdEbh-5" edge="1" parent="1" source="ArktGUGEBCDdUh8TdEbh-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ArktGUGEBCDdUh8TdEbh-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ArktGUGEBCDdUh8TdEbh-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="INICIO" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ArktGUGEBCDdUh8TdEbh-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="FIM" vertex="1">
+          <mxGeometry height="80" width="120" x="330" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="ArktGUGEBCDdUh8TdEbh-6" edge="1" parent="1" source="ArktGUGEBCDdUh8TdEbh-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ArktGUGEBCDdUh8TdEbh-3" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Ler&amp;nbsp; N1,N2" vertex="1">
+          <mxGeometry height="60" width="174" x="333" y="195" as="geometry" />
+        </mxCell>
+        <mxCell id="ArktGUGEBCDdUh8TdEbh-7" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="somar N*N=" vertex="1">
+          <mxGeometry height="60" width="114" x="360" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="ArktGUGEBCDdUh8TdEbh-11" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="escrever&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="ArktGUGEBCDdUh8TdEbh-20" edge="1" parent="1" source="ArktGUGEBCDdUh8TdEbh-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.639;entryY=0.061;entryDx=0;entryDy=0;entryPerimeter=0;" target="ArktGUGEBCDdUh8TdEbh-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ArktGUGEBCDdUh8TdEbh-21" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="333" y="540" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
